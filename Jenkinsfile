@@ -1,4 +1,4 @@
-[200~node {
+node {
    echo 'Hello World'
       echo 'Hello Webhook22'
       }
